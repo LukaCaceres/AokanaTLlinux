@@ -3999,75 +3999,75 @@ Sí... lo prometo...
 【Masaya】
 Estoy de vuelta... Oh, ¿dónde está Asuka?
 【Madoka】
-She went out for a walk. Should be back by now, though...
+Salió a dar una vuelta. Aunque ya debería estar por volver...
 【Satouin】
-Oh, there she is!
+¡Oh, ahí está!
 【Asuka】
-I'm back!
+¡Estoy de regreso!
 【Misaki】
-You've been gone for ages! Where'd you go?
+¡Te fuiste por mucho tiempo! ¿A dónde fuiste?
 【Asuka】
-Oh... I just went to see a friend!
+Oh... ¡Fui a ver a una amiga!
 【Madoka】
-A friend...? What, like someone from your old school?
+¿Una amiga...? ¿Quién, alguien de tu anterior escuela?
 【Asuka】
-No, a girl I'm going to become friends with <i>really</i> soon.
+No, una chica que se convertirá en mi amiga <i>realmente</i> pronto.
 【Mashiro】
-Wh-What...?
+¿Q-Qué...?
 【Masaya】
-We need to get ready, Asuka.
+Necesitamos preparanos, Asuka.
 【Asuka】
-Yes, Masaya-san...!
-Asuka and I make our way over to the playing field.
-And when we get there, I see the whole Kairyou team on standby.
-Eventually, I hear a familiar voice call out from behind me.
+¡Sí, Masaya-san...!
+Asuya y yo nos dirigimos hacia el campo de juego.
+Y cuando llegamos ahí, veo a todo el equipo Kairyou esperando.
+Eventualmente, escucho una voz familiar llamarme desde atrás.
 【Aoi】
-Yo. I see you're working hard.
+Hey. Veo que están trabajando duro.
 【Misaki】
-Oh, Ms. Kagami!
+¡Oh, profesora Kagami!
 【Mashiro】
-I didn't think you were coming!
+¡No pensé que vendrías!
 【Aoi】
-Sorry I took so long... Work ran longer than I expected.
-Aoi-san approaches the others, then directs her gaze at me.
+Perdón por la demora... el trabajo tomó más de lo esperado.
+Aoi-san se acerca a los demás, y luego dirige su mirada hacia mí.
 【Aoi】
 ......
-She gives a quick nod, and I respond in kind.
-We share no words because we have no need for them.
-At this point, I just have to pour everything I have into this match.
+Asiente con su cabeza, y yo le contesto de igual forma.
+No nos dirigimos ninguna palabra porque no las necesitamos.
+En este punto, solo tengo que dedicar todo de mí a este partido.
 【Masaya】
-(I'm still worried about what Aoi-san told me, though...)
-Well, I can deal with that when it comes up. The first step is showing off the fruits of our labor.
-We won't stand a chance unless we do that.
+(Sin embargo, todavía estoy preocupado por lo que Aoi-san me dijo...)
+Bueno, puedo lidiar con ello cuando llegue el momento. El primer paso es mostrar el fruto de nuestro trabajo.
+No tendremos ninguna oportunidad a menos que hagamos eso.
 【Masaya】
-Okay, it's time.
-The match is about to start, so I tell Asuka to head over to first.
-I can practically feel the excitement in the air.
+Okay, ya es momento.
+El partido está por comenzar, así que le indico a Asuka que se dirija a primera.
+Puedo prácticamente sentir la emoción en el aire.
 【Minori】
-Ladies and gentlemen, the time has finally come for the fall tournament's grand finale! Just like last time, I promise to give you well curated commentary with my pretty voice. I'm the one, the only, Precure Minori!
+¡Damas y caballeros, finalmente ha llegado el momento de la gran final del torneo de otoño! Igual que la vez pasada, prometo proveerles buenos comentarios con mi bella voz. ¡Soy la única e inigualable Precure Minori!
 【Minori】
-One of our finalists is the winner of the summer nationals, the "Monarch of the Skies," Saki Inui.
+Una de nuestras finalistas es la ganadora de los nacionales de verano, la "Monarca de los Cielos", Saki Inui.
 【Minori】
-And her opponent, looking to cause an upset here today, is an up-and-coming player who's been improving at an astounding rate since her unfortunate third-round loss at the summer tournament. The "Magician of the Azure," Asuka Kurashina!
+Y su oponente, intentando causar un imprevisto, es una nueva jugadora quien ha estado mejorando asombrosamente desde su desafortunada derrota en la tercera ronda del torneo de verano. ¡La "Maga del Celeste", Asuka Kurashina!
 【Minori】
-Which of these two will be crowned the next Shitou champion?! Tune in to find out!
-"Magician of the Azure"... What a crazy nickname.
-Though, it's quite fitting.
-After all, she's going to put on a magic show to dazzle the crowd and unseat the foul king.
+¡¿Quién de ellas será coronada como la siguiente campeona de Shitou?! ¡Manténganse conectados!
+"Maga del Celeste"... Que nombre tan alocado.
+Aunque encaja un poco.
+Después de todo, pondrá un show mágico para dejar sin palabras al público y destronar al falso rey.
 【Misaki】
-Asukaaa! I'll treat you to some udon if you wiiin!
+¡Asukaaa! ¡Te invitaré un poco de udón si ganas!
 【Mashiro】
-And I'll get you some strawberry pocky!
+¡Y yo te daré unos caramelos de fresa!
 【Madoka】
-It's finally starting... Seeing Asuka in the grand finals really tugs at your heartstrings, huh?
+Finalmente comienza... Ver a Asuka en la gran final realmente llega a tu corazón, ¿huh?
 【Shion】
-Yeaaaah, Kurashina! You need speed! Spirit and speed! Oh, and also muscles!
+¡Vamos, Kurashinaaaa! ¡Necesitas espíritu! ¡Espíritu y velocidad! ¡Oh, y también músculos!
 【Shindou】
-Well, this is rather exciting, isn't it, Satou-kun?
+Bueno, esto es un poco emocionante, ¿cierto, Satou-kun?
 【Satouin】
-...Yes, indeed. Also, it's Satouin.
+...Sí, así es. Por cierto, es Satouin.
 【Rika】
-Asuka-san... Good luck!
+Asuka-san... ¡Buena suerte!
 【Shirase】
 Masayaaa, make sure you don't lose your cool! We've got your baaack!
 【Aoi】
